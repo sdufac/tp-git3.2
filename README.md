@@ -1,4 +1,4 @@
-1. Créer un nouveau dépôt sur GitHub
+1. Ne rien faire
 2. Cloner ce dépôt localement avec git clone
 3. Dans le répertoire du dépôt local, créer un fichier README.md contenant les paroles
 d’une chanson de votre choix
